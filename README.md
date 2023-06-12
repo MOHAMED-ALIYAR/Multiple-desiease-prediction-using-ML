@@ -1,4 +1,4 @@
-
+weblink:https://mohamed-aliyar-multiple-desiease-prediction-using-ml-app-l4y1tu.streamlit.app/
 # MULTPLE DISEASE PREDICTION USING ML
 
 Disease Prediction using Machine Learning is the system that is used to predict the diseases from the symptoms which are given by the patients or any user. The system processes the symptoms provided by the user as input and gives the output as the probability of the disease.A feature selection-based machine learning algorithm is proposed to predict three chronic diseases, namely, diabetes, heart attack, and Parkinson's. There is a need to study and make a system which will make it easy for an end users to predict the chronic diseases without visiting physician or doctor for diagnosis. To detect the Various Diseases through the examining Symptoms of patient's using different techniques of Machine Learning Models.
